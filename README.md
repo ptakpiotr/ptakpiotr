@@ -30,8 +30,4 @@ Student of Applied Computer Science at AGH UST
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Most used languages stats:
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ptakpiotr&theme=light)
-
 Check out my repos!
