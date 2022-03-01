@@ -43,8 +43,4 @@ Student of Applied Computer Science at AGH UST
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ptakpiotr&theme=light)
 
-#### Activity stats:
-
-![Stats_second](https://activity-graph.herokuapp.com/graph?username=ptakpiotr&theme=minimal)
-
 Check out my repos!
