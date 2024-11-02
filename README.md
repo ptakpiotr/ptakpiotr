@@ -23,6 +23,7 @@ Student of Applied Computer Science at AGH UST
 
 #### Mobile:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) MAUI
 
 #### Others:
 
