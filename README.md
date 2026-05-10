@@ -1,8 +1,8 @@
 ## Hi I'm Piotr 👋
 
-.NET Fullstack Developer with 3+ years of commercial experience.
+Senior .NET Developer with 3+ years of commercial experience.
 Having completed a Master's degree in Applied Computer Science at AGH UST. 
-Currently pursuing a Master's degree in Applied Computer Science with a specialization in Enterprise Cybersecurity at WSEI Kraków.
+Currently pursuing a Master's degree in Applied Computer Science with a specialization in Enterprise Cybersecurity at IDEIS Kraków (formerly WSEI).
 
 ### Technologies I use in projects:
 
